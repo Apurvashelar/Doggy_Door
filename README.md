@@ -16,8 +16,8 @@ The ImageNet challenge has produced many state-of-the-art models that can be use
 ### Dataset  
 As we're implementing this model using pre-trained model available. So we just need to import this model using keras.
 
-### Output  
-1. For dog image
+### Output    
+1. For dog image  
 ![aa](https://user-images.githubusercontent.com/57897678/121889119-73d1f600-cd36-11eb-8bed-d0d508d16554.png)  
 
 2. For cat image  
